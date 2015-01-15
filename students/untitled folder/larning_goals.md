@@ -1,4 +1,4 @@
-# Larning Goals 
+# Learning Goals 
 
 * improve my skills in coding 
 * make something that not only works but looks nice 
